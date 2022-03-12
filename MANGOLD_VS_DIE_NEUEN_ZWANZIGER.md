@@ -29,7 +29,7 @@ Statt zu überlegen, was passiert, wenn Bitcoin die Zentralbanken ablöst, würd
 
 Sofern sich Mangold nicht selber mit bestimmten Personen assoziiert, würde ich von dahingehenden Implikationen eher Abstand halten.
 
-Es stimmt, dass der Support Bitcoins aus dem rechten Lager lauter ist, als der aus dem linken. Ein einfaches "Bitcoin ist unpolitisch" kann auch ich hier nicht akzeptieren, aber das würde glaub ich auch Mangold nicht. Für diese Diskussion gibt es aber aus meiner Sicht hier keinen Anlass.
+Es stimmt, dass der Support Bitcoins aus dem rechten Lager lauter ist, als der aus dem linken. Ein einfaches "Bitcoin ist unpolitisch" kann auch ich nicht akzeptieren, aber das würde glaub ich auch Mangold nicht. Für diese Diskussion gibt es aber aus meiner Sicht hier keinen Anlass.
 
 #### 5. Eilenbergers Blockchain Erklärung anhand eines Zuges sei Quatsch (DN20).
 
