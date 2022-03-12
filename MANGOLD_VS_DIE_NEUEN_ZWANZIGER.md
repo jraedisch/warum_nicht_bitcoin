@@ -8,13 +8,13 @@ Im Folgenden gehe ich auf einige ihrer Punkte der Reihe nach ein.
 
 #### 1. Mangold humble braggt, wenn er sagt, dass er ein Ästhet sei "der sich sonst mit, keine Ahnung, Marcel Proust und Goethe beschäftigt".
 
-Hab ich einfach so interpretiert, dass er normalerweise anderen Kram macht. Diese Kritik an Mangolds Person klingt außerdem komisch von Leuten, die Netrebko überschätzt finden, usw..
+Hab ich einfach so interpretiert, dass er normalerweise anderen Kram macht. Diese Kritik an Mangolds Person klingt außerdem komisch von Leuten, die Netrebko überschätzt finden, usw..  
 Mangolds Stil ist konsistent in seiner Übertreibung. Das muss man natürlich nicht mögen, aber man sollte es bei Kritik berücksichtigen.
 Ein ungeschriebenes Buch als Qualifikation anzuführen ist in der Tat etwas unglücklich, zumal man auch einfach Zeit Artikel, Podcasts etc. hätte anführen können, oder generell die (aus Sicht vieler Bitcoiner) beeindruckende Geschwindigkeit, mit der sich Mangold tiefgründing mit dem Thema Bitcoin vertraut gemacht hat.
 
 #### 2. Bitcoin als "digital erzeugte Knappheit" (Mangold) zu bezeichnen sei "philosophisch ziemlicher Humbug" (Schulz und Schmitt, im Folgenden DN20), weil es diese schon gäbe. So könne man z.B. manche Zeitungsartikel online nur lesen, wenn man sie bezahlt.
 
-Mangold verkürzt sicherlich an der einen oder anderen Stelle die Argumentation. Natürlich gab es begrenzten Zugang zu digitalen Inhalten und Gütern auch vor Bitcoin schon. Was Bitcoin interessant macht, ist der Versuch, Knappheit herzustellen, deren Bedingungen nicht einfach änderbar sind.
+Mangold verkürzt sicherlich an der einen oder anderen Stelle die Argumentation. Natürlich gab es begrenzten Zugang zu digitalen Inhalten und Gütern auch vor Bitcoin schon. Was Bitcoin interessant macht, ist der Versuch, Knappheit herzustellen, deren Bedingungen nicht einfach änderbar sind.  
 Die Zeit, Amazon, PayPal, etc., können Bezahlmodelle beliebig anpassen, es wird aber z.B. (nach darauf wettenden Bitcoinern wie mir) wahrscheinlich nie mehr als "21 Millionen" Bitcoins geben, was durch die Verteilung der Entscheidungen auf so viele Teilnehmer wie möglich (häufig mit "Dezentralität" umschrieben) begründet ist. (Mehr dazu auch bei Punkt 5.)
 
 #### 3. Mangolds Aussage "jetzt kommt die Finanzkrise und plötzlich sehen wir, wir wollen der zentralen Instanz der Zentralbanken nicht mehr ausgeliefert sein" sei "wahnsinnig gefährlich, denn hier blendet man immer aus, welchen Beitrag und welche Leistung die EZB eigentlich bietet" (DN20).
@@ -40,11 +40,11 @@ Einfrieren der Konten von Wikileaks (potentiell anderen "Hilfsorganisationen" (D
 
 Es folgt eine Kritik der "Denzentralität", bei der DN20 eine Zentralisierung auf "2, 3 Miner" annehmen, welche Bitcoin (in Kombination mit Volatilität) unnütz machen.
 
-Ich stimme DN20 bei der impliziten Forderung zu, dass sich Bitcoin beständig gegenüber Angriffen beweisen muss, und eine wirkliche Prüfung eventuell noch gar nicht statt gefunden hat.
-Wichtig ist aber, dass ein Mining Pool etwas anderes ist, als ein Miner.
+Ich stimme DN20 bei der impliziten Forderung zu, dass sich Bitcoin beständig gegenüber Angriffen beweisen muss, und eine wirkliche Prüfung eventuell noch gar nicht statt gefunden hat.  
+Wichtig ist aber, dass ein Mining Pool etwas anderes ist, als ein Miner.  
 Kritiker weichen nach diesem Argument häufig darauf aus, dass schon die Herstellung der Mining Hardware zentralisiert ist.
-Auch dieser Kritik stimme ich zu.
-Wo ich allerdings nicht zustimme, ist, dass diese Probleme unlösbar sind, bzw. Bitcoin deswegen zum Scheitern verurteilt ist.
+Auch dieser Kritik stimme ich zu.  
+Wo ich allerdings nicht zustimme, ist, dass diese Probleme unlösbar sind, bzw. Bitcoin deswegen zum Scheitern verurteilt ist.  
 Mining Pools können zerfallen, neue Mining Hardware Hersteller entstehen, sich im Falle von versuchter Manipulation des Systems Gegenwehr bilden, usw..
 
 (Dass Bitcoins Volatilität evtl. nie abnehmen wird, ist nur dann ein Problem, wenn man damit das Zentralbanksystem ersetzen will.)
@@ -55,12 +55,12 @@ Kann ich tatsächlich nur nachvollziehen, wenn man "Jugend" bis zu einem Alter v
 
 #### 7. "Man will sich um die Sache [eigenverantwortliche Verwaltung der Bitcoin Private Keys] nicht kümmern" (DN20)
 
-Hier wird wieder ein Entweder/Oder impliziert, dem ich wie gesagt nicht zustimme. Man muss nicht 100% seines "Werts" in Bitcoin halten, genau so wenig, wie man 100% bei der Sparkasse liegen haben muss.
+Hier wird wieder ein Entweder/Oder impliziert, dem ich wie gesagt nicht zustimme. Man muss nicht 100% seines "Werts" in Bitcoin halten, genau so wenig, wie man 100% bei der Sparkasse liegen haben muss.  
 Die Möglichkeit besserer Verwahrungstechniken wird von DN20 gar nicht in Erwägung gezogen.
 
 #### 8. Die westliche Perspektive ist eine der finanziellen Priviligiertheit, welche ein Verständnis Bitcoins evtl. erschwert. (Mangold)
 
-Diese Argumentation stößt auch mir immer sauer auf, da ich sie eben aus meiner westlichen Perspektive nicht nachvollziehen kann.
+Diese Argumentation stößt auch mir immer sauer auf, da ich sie eben aus meiner westlichen Perspektive nicht nachvollziehen kann.  
 Ob Bitcoin das Gesamtleid in der Welt zu lindern vermag, wage ich nicht zu beantworten. Das muss ich m.E. auch nicht. Es reicht, wenn ich persönlichen Nutzen aus dem Besitz, bzw. der Verwendung ziehe. Mir ist natürlich bewusst, dass ich hierdurch evtl. blinder bin für einen Netto Schaden, den Bitcoin in der Welt anrichtet, weshalb ich wiederum Bitcoinkritikern intensiver folge als Bitcoinbefürwortern.
 
 #### 9. Der "Bitcoin ist ein von der Idee her also langfristig deflationäres Geld" (Mangold), was der "fundamentalste Nachteil überhaupt" sein könnte (DN20).
