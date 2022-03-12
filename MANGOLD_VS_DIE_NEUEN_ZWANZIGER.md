@@ -10,7 +10,7 @@ Im Folgenden gehe ich auf einige ihrer Punkte der Reihe nach ein.
 
 Hab ich einfach so interpretiert, dass er normalerweise anderen Kram macht. Diese Kritik an Mangolds Person klingt außerdem komisch von Leuten, die Netrebko überschätzt finden, usw..  
 Mangolds Stil ist konsistent in seiner Übertreibung. Das muss man natürlich nicht mögen, aber man sollte es bei Kritik berücksichtigen.
-Ein ungeschriebenes Buch als Qualifikation anzuführen ist in der Tat etwas unglücklich, zumal man auch einfach Zeit Artikel, Podcasts etc. hätte anführen können, oder generell die (aus Sicht vieler Bitcoiner) beeindruckende Geschwindigkeit, mit der sich Mangold tiefgründing mit dem Thema Bitcoin vertraut gemacht hat.
+Ein ungeschriebenes Buch als Qualifikation anzuführen ist in der Tat etwas unglücklich, zumal man auch einfach Zeit Artikel, Podcasts etc. hätte anführen können, oder generell die Geschwindigkeit, mit der sich Mangold mit dem Thema Bitcoin vertraut gemacht hat.
 
 #### 2. Bitcoin als "digital erzeugte Knappheit" (Mangold) zu bezeichnen sei "philosophisch ziemlicher Humbug" (Schulz und Schmitt, im Folgenden DN20), weil es diese schon gäbe. So könne man z.B. manche Zeitungsartikel online nur lesen, wenn man sie bezahlt.
 
@@ -18,8 +18,7 @@ Mangold verkürzt sicherlich an der einen oder anderen Stelle die Argumentation.
 Die Zeit, Amazon, PayPal, etc., können Bezahlmodelle beliebig anpassen, es wird aber z.B. (nach darauf wettenden Bitcoinern wie mir) wahrscheinlich nie mehr als "21 Millionen" Bitcoins geben, was durch die Verteilung der Entscheidungen auf so viele Teilnehmer wie möglich (häufig mit "Dezentralität" umschrieben) begründet ist. (Mehr dazu auch bei Punkt 5.)
 
 #### 3. Mangolds Aussage "jetzt kommt die Finanzkrise und plötzlich sehen wir, wir wollen der zentralen Instanz der Zentralbanken nicht mehr ausgeliefert sein" sei "wahnsinnig gefährlich, denn hier blendet man immer aus, welchen Beitrag und welche Leistung die EZB eigentlich bietet" (DN20).
-
-"Billiges Geld wird einfach rausgehauen" (Mangold) und es resultieren Aktienrückkäufe, die aber auch durch "Steuererleichterungen" (DN20) möglich wurden, und auch von "Elizabeth Warren" (die ich mal Stellvertretend für "Politiker" lese), kritisiert wurden (DN20).
+##### "Billiges Geld wird einfach rausgehauen" (Mangold) und es resultieren Aktienrückkäufe, die aber auch durch "Steuererleichterungen" (DN20) möglich wurden, und auch von "Elizabeth Warren" (die ich mal Stellvertretend für "Politiker" lese), kritisiert wurden (DN20).
 
 Zuerst einmal sei festgehalten, dass alle sich einig sind, dass Aktienrückkäufe in Folge der Finanzkrise zur ungerechten Verteilung von Besitz beigetrragen haben. Konsens ist also möglich.
 
@@ -60,8 +59,9 @@ Die Möglichkeit besserer Verwahrungstechniken wird von DN20 gar nicht in Erwäg
 
 #### 8. Die westliche Perspektive ist eine der finanziellen Priviligiertheit, welche ein Verständnis Bitcoins evtl. erschwert. (Mangold)
 
-Diese Argumentation stößt auch mir immer sauer auf, da ich sie eben aus meiner westlichen Perspektive nicht nachvollziehen kann.  
-Ob Bitcoin das Gesamtleid in der Welt zu lindern vermag, wage ich nicht zu beantworten. Das muss ich m.E. auch nicht. Es reicht, wenn ich persönlichen Nutzen aus dem Besitz, bzw. der Verwendung ziehe. Mir ist natürlich bewusst, dass ich hierdurch evtl. blinder bin für einen Netto Schaden, den Bitcoin in der Welt anrichtet, weshalb ich wiederum Bitcoinkritikern intensiver folge als Bitcoinbefürwortern.
+Diese Argumentation kann ich aus meiner westlichen Perspektive bisher auch nicht nachvollziehen.  
+Ob Bitcoin das Gesamtleid in der Welt zu lindern vermag, wage ich nicht zu beantworten. Das muss ich m.E. auch nicht. Es reicht, wenn ich persönlichen Nutzen aus dem Besitz, bzw. der Verwendung ziehe.  
+Mir ist natürlich bewusst, dass ich hierdurch evtl. blinder bin für einen Netto Schaden, den Bitcoin in der Welt anrichtet, weshalb ich wiederum Bitcoinkritikern intensiver folge als Bitcoinbefürwortern.
 
 #### 9. Der "Bitcoin ist ein von der Idee her also langfristig deflationäres Geld" (Mangold), was der "fundamentalste Nachteil überhaupt" sein könnte (DN20).
 
